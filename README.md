@@ -2,7 +2,7 @@
 
 # COMP30019 – Graphics and Interaction
 
-## Workshop 3: Transformations
+## Workshop 3: Transformations and User Input
 
 <p align="center">
   <a href="https://github.com/COMP30019/Workshop-3-Solution/actions/workflows/main.yml" alt="Workflow Status">
