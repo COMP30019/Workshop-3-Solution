@@ -5,6 +5,10 @@
 ## Workshop 3: Transformations and User Input
 
 <p align="center">
+  <img src="Gifs/preview.gif">
+</p>
+
+<p align="center">
   <a href="https://github.com/COMP30019/Workshop-3-Solution/actions/workflows/main.yml" alt="Workflow Status">
     <img src="https://github.com/COMP30019/Workshop-3-Solution/actions/workflows/main.yml/badge.svg" />
   </a>
